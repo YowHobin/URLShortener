@@ -16,5 +16,5 @@ Simple URL shortener with responsive design and with the help of shrtco.de API t
 
 ## Technologies Used
 
-- React
+- ReactJS
 - CSS 3
